@@ -3,7 +3,7 @@ import Navbar from '../components/Navbar.jsx'
 import Dashboard from '../components/Dashboard.jsx'
 import Studentform from '../components/Studentform.jsx'
 import StudentList from '../components/Studentlist.jsx'
-import studentData from "./students";
+import studentData from "./Students.jsx";
 import "remixicon/fonts/remixicon.css";
 
 
